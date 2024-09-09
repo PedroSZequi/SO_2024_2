@@ -1,5 +1,5 @@
 // Pedro de Souza Zequi - 10419805 - 04p11
-// Lab 3 - Exercício 1
+// Lab 3 - Exercício 2
 #include <stdio.h>
 #include <unistd.h>  
 #include <sys/types.h>
